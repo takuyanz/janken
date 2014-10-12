@@ -1,0 +1,4 @@
+janken
+======
+
+janken in ruby
