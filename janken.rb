@@ -83,5 +83,6 @@ class Janken
 	end
 end
 
+#hell
 Janken.new
 
