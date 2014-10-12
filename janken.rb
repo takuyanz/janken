@@ -55,7 +55,7 @@ class Janken
 				sleep(1)
 				i += 1
 			elsif i == 2 
-				puts "\n Scissors,,".neon
+				puts "\n Scissors..".neon
 				sleep(1)
 				i += 1
 			else 
@@ -83,6 +83,5 @@ class Janken
 	end
 end
 
-#hell
 Janken.new
 
